@@ -12,3 +12,7 @@
 
 * Added translatable strings to stock notifications
 * Moved notifications to templates
+
+## 1.1.0
+
+* Add support for SS5
