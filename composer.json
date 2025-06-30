@@ -1,6 +1,6 @@
 {
     "name": "silvercommerce/stock",
-    "description": "Module that adds discounts (either as a code, or on a group) to SilverCommerce",
+    "description": "Module that adds stock control to SilverCommerce",
     "type": "silverstripe-vendormodule",
     "homepage": "http://github.com/silvercommerce/stock",
     "keywords": [
@@ -30,7 +30,7 @@
         "silvercommerce/settings": "^1",
         "silvercommerce/catalogue-admin": "^1.3",
         "silvercommerce/orders-admin": "^1.4",
-        "i-lateral/silverstripe-gridfield-addons": "^2.0"
+        "dft/silverstripe-gridfield-addons": "^2 || ^3"
     },
     "extra": {
         "expose": [
