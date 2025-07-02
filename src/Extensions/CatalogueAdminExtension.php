@@ -4,7 +4,7 @@ namespace SilverCommerce\Stock\Extensions;
 
 use SilverCommerce\CatalogueAdmin\Model\CatalogueProduct;
 use SilverStripe\Core\Extension;
-use SilverStripe\GridFieldAddOns\GridFieldRecordHighlighter;
+use DFT\SilverStripe\GridFieldAddOns\GridFieldRecordHighlighter;
 
 class CatalogueAdminExtension extends Extension
 {
